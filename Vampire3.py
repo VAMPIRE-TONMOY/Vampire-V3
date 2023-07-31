@@ -201,15 +201,15 @@ logo ="""
 \033[97;4 | |/ / ___ |/ /  / / ____// // _, _/ /___      
 \033[97;5 |___/_/  |_/_/  /_/_/   /___/_/ |_/_____/
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-║\33[0;45m        [ WORKING WI-FI+MOBILE DATA ]         \033[0;92m║
+║\33[0;45m        [ WORKING WI-FI+MOBILE DATA ]        \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[OWNER                    • \33[1;38mJUSTIN-TONMOY  ]\33[1;38m     \033[1;31m 
+╠══[OWNER                    • \33[1;38mJUSTIN-TONMOY  \33[1;38m     \033[1;31m 
 ╠══[FACEBOOK                 • VǢMPÏRÊ᭄ゝ༺ʚĩɞ༻     \033[1;97m  
-╠══[GITHUB                   • \33[1;38mjustinlucifer ]   \33[1;34m   
-╠══[WHATSAPP                 • 01300161579 ]  \33[1;35m 
-╠══[TOOLS                    • FREE-ENJOY  ]          \33[1;32m   
-╠══[VERSION                  • 3.0 ]          \033[1;35m 
+╠══[GITHUB                   • \33[1;38mjustinlucifer    \33[1;34m   
+╠══[WHATSAPP                 • 01300161579   \33[1;35m 
+╠══[TOOLS                    • FREE-ENJOY            \33[1;32m   
+╠══[VERSION                  • 3.0           \033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -476,7 +476,7 @@ def crack_file():
     print('\033[0;91m==================')
     os.system('espeak -a 300 " input, your, blood, to, Vampire"')
     print('\033[1;32m[ Put File Example:  /sdcard/vampires.txt  Etc...]')
-    o = input('\033[97;1m[\033[92;1m+\033[97;1m] INPUT YOUR BLOOD TO VAMPIRE🤧 :\033[92;1m ')
+    o = input('\033[97;2m[\033[92;9m+\033[97;1m] INPUT YOUR BLOOD TO VAMPIRE🤧 :\033[92;1m ')
     try:lin = open(o).read().splitlines()
     except:
         print('\033[0;91m==================')
