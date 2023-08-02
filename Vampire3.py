@@ -206,7 +206,7 @@ logo ="""
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
 ╠══[OWNER                    • \33[1;38mJUSTIN-TONMOY  \33[1;38m     \033[1;31m 
 ╠══[FACEBOOK                 • VǢMPÏRÊ᭄ゝ༺ʚĩɞ༻     \033[1;97m  
-╠══[GITHUB                   • \33[1;38mjustinlucifer    \33[1;34m   
+╠══[GITHUB                   • \33[1;38mVAMPIRE-TONMOY    \33[1;34m   
 ╠══[WHATSAPP                 • 01300161579   \33[1;35m 
 ╠══[TOOLS                    • FREE-ENJOY            \33[1;32m   
 ╠══[VERSION                  • 3.0           \033[1;35m 
